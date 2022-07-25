@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+I am a former museums and humanitarian worker. Currently growing developer with a real and constant desire to progress in the infinite world of development.
+
+### Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roman.lotocki@gmail.com)
 
 <!--
 **RomanLotocki/RomanLotocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
