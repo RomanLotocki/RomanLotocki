@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 I am a former museums and humanitarian worker.  
-Currently growing developer with a real desire to explore the infinite world of development
+Currently growing developer willing to explore the fascinating world of development.
+<pre>
+
+</pre>
+> 
+> "Il existe selon moi une démiurgie propre à l'acte de programmer. Un accomplissement spécial, j'en suis convaincu, tout à fait jouissif, dans l'ensemencement du silicium. Enfanter par l'électron. Faire naître dans l'inerte. Un intense bonheur en découle, qui tient aussi à cette augmentation de nos humaines capacités qu'autorise la machine qu'on domestique et qui va nous épauler, chercher à notre place et trouver grâce à nous."
+> 
+> *— Alain Damasio - Vallée du Silicium*
 <pre>
 
 </pre>
